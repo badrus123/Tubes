@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1490970424 source:d:\1kuliah\tubes\tugasbesas\library.cpp
+	"Pemilik.h"
+
+1490969660 d:\1kuliah\tubes\tugasbesas\pemilik.h
+	"kendaraan.h"
+
+1490968168 d:\1kuliah\tubes\tugasbesas\kendaraan.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1490969864 source:d:\1kuliah\tubes\tugasbesas\main.cpp
+	<iostream>
+	"Pemilik.h"
+
+1490920024 source:d:\tubesstrukdat\tugasbesas\library.cpp
+	"Pemilik.h"
+
+1490919260 d:\tubesstrukdat\tugasbesas\pemilik.h
+	"kendaraan.h"
+
+1490917768 d:\tubesstrukdat\tugasbesas\kendaraan.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1491364960 source:d:\tubesstrukdat\tugasbesas\main.cpp
+	<iostream>
+	"Pemilik.h"
+	"windows.h"
+
